@@ -30,6 +30,20 @@ p.more {
   display: none;
 }
 
-/* Write your CSS here. */
-weird stuff
-more weird stuff
+* {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  background-color: whitesmoke;
+  color: #464646;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+ul li {
+  list-style: none;
+}
